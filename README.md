@@ -4,6 +4,8 @@ To complete this challenge, download the `applicant_data.csv` file from this rep
 
 This data contains 10 observations, each with a unique identifier, `id`. The variables `v1, v2, v3, v4, v5` are strings with names of animals. A value of `NA` indicates a value that is missing.
 
+There is more than one correct way to answer each of the below questions. This is an "open book" challenge--feel free to use any online resources you typically use to help you get to the solution for each question.
+
 ## Question 1
 
 Transpose the data in variables `v1, v2, v3, v4, v5` from wide to long format.
