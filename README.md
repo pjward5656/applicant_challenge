@@ -12,7 +12,7 @@ Transpose the data in variables `v1, v2, v3, v4, v5` from wide to long format.
 
 ## Question 2
 
-Count the number of IDs that have "donkey", the number of IDs that have "zebra", and the number of IDs that have "horse" in any of `v1, v2, v3, v4, v5`. You should have separate counts for "donkey", "horse" and "zebra".
+Create indicator variables that indicate if an ID contains "donkey", an ID contains "horse", and an ID contains "zebra" in any of `v1, v2, v3, v4, v5`. Count the number of IDs that have "donkey", the number of IDs that have "zebra", and the number of IDs that have "horse" in any of `v1, v2, v3, v4, v5`. You should have separate counts for "donkey", "horse" and "zebra".
 
 ## Question 3
 
