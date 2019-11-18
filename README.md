@@ -8,7 +8,7 @@ Transpose the data in variables `v1, v2, v3, v4, v5` from wide to long format.
 
 ## Question 2
 
-Count how many observations (in the original, wide data) have "donkey", "zebra", and "horse" in any of `v1, v2, v3, v4, v5`. You should have separate counts for "donkey", "horse" and "zebra".
+Count the number of IDs that have "donkey", the number of observations that have "zebra", and the number of observations that have "horse" in any of `v1, v2, v3, v4, v5`. You should have separate counts for "donkey", "horse" and "zebra".
 
 ## Question 3
 
